@@ -1,0 +1,61 @@
+ [
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": {
+      "monthly": 20,
+      "yearly": 200
+    },
+
+    "currency": "USD",
+    "description": "Perfect for beginners",
+    "features": [
+      "Gym Equipment Access", 
+      "Locker Facility", 
+      "Group Classes", 
+      "Personal Trainer", 
+      "Diet Plan", 
+      "Sauna & Steam" 
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Standard",
+    "price": {
+      "monthly": 40,
+      "yearly": 400
+    },
+    "currency": "USD",
+    "description": "Regular gym users ",
+    "features": [
+      "Full Gym Access", 
+      "Locker + Shower", 
+      "Group Classes", 
+      "Personal Trainer", 
+      "Diet Plan", 
+      "Sauna & Steam" 
+    ]
+    
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": {
+      "monthly": 70,
+      "yearly": 700
+    },
+    "currency": "USD",
+    "description": "Advanced users & athletes",
+    "features": [
+      "Unlimited Gym Access", 
+      "VIP Locker + Shower", 
+      "Group Classes", 
+      "Personal Trainer", 
+      "Custom Diet Plan", 
+      "Sauna & Steam", 
+      "Massage Therapy" 
+    ]
+    
+  }
+]
