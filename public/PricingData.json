@@ -2,10 +2,7 @@
   {
     "id": 1,
     "name": "Basic",
-    "price": {
-      "monthly": 20,
-      "yearly": 200
-    },
+    "price": 50,
 
     "currency": "USD",
     "description": "Perfect for beginners",
@@ -22,10 +19,8 @@
   {
     "id": 2,
     "name": "Standard",
-    "price": {
-      "monthly": 40,
-      "yearly": 400
-    },
+    "price": 100,
+      
     "currency": "USD",
     "description": "Regular gym users ",
     "features": [
@@ -41,10 +36,7 @@
   {
     "id": 3,
     "name": "Premium",
-    "price": {
-      "monthly": 70,
-      "yearly": 700
-    },
+    "price": 150,
     "currency": "USD",
     "description": "Advanced users & athletes",
     "features": [
